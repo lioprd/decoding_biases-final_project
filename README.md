@@ -1,5 +1,6 @@
 # AI Gahaku & Racial Bias in Facial Recognition Algorithms
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_1.png">
 ## Introduction
 
 ## Literature review
