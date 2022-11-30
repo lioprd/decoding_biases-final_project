@@ -22,19 +22,19 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/Figure_1.png" width="1010" height="510"> <br>
   
-__Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719__
+<b>Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719</b>
 
 <p align="justify">Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/Figure_2.png">
 
-**Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait)** 
+<b>Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait)</b> 
 
 <p align="justify">Such modifications seem to be less prevalent when looking at our control group (white people) even though some individuals present artefacts around their eyes. A similar issue occurs for some portraits of the first group. 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_3.png">
 
-**Portrait #119 & #5933 and juxtaposition of the real picture (black frame) on the generated portrait)**
+<b> Portrait #119 & #5933 and juxtaposition of the real picture (black frame) on the generated portrait)</b>
 
 <p align="justify">The issues abovementioned contribute to show that the portraits of white people tend to be more accurately represented than the other groups or at least that the respective generated pictures are closer to the original models. As the canonical aesthetic of Early Italian Renaissance is almost entirely based on the depiction of white people, this is unsurprising. 
   
