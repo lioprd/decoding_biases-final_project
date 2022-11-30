@@ -38,8 +38,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 
 <p align="justify">The issues abovementioned contribute to show that the portraits of white people tend to be more accurately represented than the other groups or at least that the respective generated pictures are closer to the original models. As the canonical aesthetic of Early Italian Renaissance is almost entirely based on the depiction of white people, this is unsurprising. 
   
-![image](assets/figure_6.png)
-![image](assets/figure_7.png)
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_4.png">
   
 **Original pictures and generations, references of the images (link to right and top to bottom): #654, #623, #37, #3870**
 
