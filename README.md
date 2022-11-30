@@ -18,12 +18,9 @@ Before delving into the mismatches in the quality of the generations that could 
 We will first assess the presence of biases on the Early Renaissance generations and followingly examine whether Contemporary Realism generations were less biased. As predicted by our initial hypothesis, the generated paintings show a certain degree of biases. The first group examined; Black people shows the most obvious bias which is linked to the skin tones of the generations. As can be seen on the figure XXX, all generations feature rather similar skin colours, which were used in Early Italian Renaissance by painters such as Antonello de Messina to depict white people. The gap is less striking on the generations that were made based on the East Asian group as their skin tones are less contrasted with the generated tone. However, after looking more in-depth at our generations, we can see that different undertones tend to be erased and the three group are uniformly depicted with white skin tones.
 </p>
 
-<p align="center">
-<img width="1010" height="510" src=![image](https://user-images.githubusercontent.com/116351321/204894138-d695034a-3a96-48bc-920b-97f8ca897686.png)>
-  </p>
-<p align="justify">
+![image](https://user-images.githubusercontent.com/116351321/204894138-d695034a-3a96-48bc-920b-97f8ca897686.png)
   
-Original pictures and generations Early Renaissance, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719
+Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719
 
 Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
 ![image](https://user-images.githubusercontent.com/116351321/204894325-7d90ec91-94b0-4430-9006-180302246805.png)  ![image](https://user-images.githubusercontent.com/116351321/204894346-a17fbd2f-1650-47d2-9c17-791ab245ffeb.png)
@@ -45,7 +42,7 @@ The paintings used by AI Gahaku to train the model are most likely based on Anto
 As mentioned in our methodological part, to see whether those issues would be mitigated by applying an art style that potentially used more inclusive dataset for training, we subsequently generated portraits using the Contemporary Realism style. Amongst the options offered by AI Gahaku, we hypothesized that it could potentially produce less biased results than Early Renaissance. 
 The results are, however, practically identical. This is notably visible when looking at the skin complexions of the second round of generations. The complexions are similar to the sample image provided for Contemporary Realism but disregards the skin colour of the pictures selected to produce a white complexion. 
 ![image](https://user-images.githubusercontent.com/116351321/204894727-a9b21dde-ffb5-4c5f-9427-a9b92efbe544.png)
-Original pictures and generations Contemporary Realism, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765
+Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765
   </p>
 
 
