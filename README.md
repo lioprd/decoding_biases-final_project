@@ -22,7 +22,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/Figure_1.png" width="1010" height="510"> <br>
   
-**Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719**
+__Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719__
 
 <p align="justify">Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
   
