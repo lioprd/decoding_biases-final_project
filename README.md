@@ -27,20 +27,20 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 
 <p align="justify">Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
   
-![image](https://user-images.githubusercontent.com/116351321/204894325-7d90ec91-94b0-4430-9006-180302246805.png)  ![image](https://user-images.githubusercontent.com/116351321/204894346-a17fbd2f-1650-47d2-9c17-791ab245ffeb.png)
+![image](assets/figure_2.png)  ![image](assets/figure_3.png)
 
 **Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait)** 
 
 <p align="justify">Such modifications seem to be less prevalent when looking at our control group (white people) even though some individuals present artefacts around their eyes. A similar issue occurs for some portraits of the first group. 
 
-![image](https://user-images.githubusercontent.com/116351321/204894487-36f17c35-891a-41b7-8f43-46b1d2532be9.png) ![image](https://user-images.githubusercontent.com/116351321/204894503-dc7beb2d-4b5c-4ab0-95eb-4845e063a035.png)
+![image](assets/figure_4.png) ![image](assets/figure_5.png)
 
 **Portrait #119 & #5933 and juxtaposition of the real picture (black frame) on the generated portrait)**
 
 <p align="justify">The issues abovementioned contribute to show that the portraits of white people tend to be more accurately represented than the other groups or at least that the respective generated pictures are closer to the original models. As the canonical aesthetic of Early Italian Renaissance is almost entirely based on the depiction of white people, this is unsurprising. 
   
-![image](https://user-images.githubusercontent.com/116351321/204894619-9afc1aa3-442c-4972-b783-b84063b3e6cb.png)
-![image](https://user-images.githubusercontent.com/116351321/204894632-081f48a2-8584-4f3d-b124-938652e0e3c5.png)
+![image](assets/figure_6.png)
+![image](assets/figure_7.png)
   
 **Original pictures and generations, references of the images (link to right and top to bottom): #654, #623, #37, #3870**
 
@@ -48,7 +48,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 As mentioned in our methodological part, to see whether those issues would be mitigated by applying an art style that potentially used more inclusive dataset for training, we subsequently generated portraits using the Contemporary Realism style. Amongst the options offered by AI Gahaku, we hypothesized that it could potentially produce less biased results than Early Renaissance. 
 The results are, however, practically identical. This is notably visible when looking at the skin complexions of the second round of generations. The complexions are similar to the sample image provided for Contemporary Realism but disregards the skin colour of the pictures selected to produce a white complexion. 
 
-  ![image](https://user-images.githubusercontent.com/116351321/204894727-a9b21dde-ffb5-4c5f-9427-a9b92efbe544.png)
+  ![image](assets/figure_8.png)
 
 **Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765**
   
