@@ -19,9 +19,10 @@ We will first assess the presence of biases on the Early Renaissance generations
 </p>
 
 <p align="center">
-![image](https://user-images.githubusercontent.com/116351321/204894138-d695034a-3a96-48bc-920b-97f8ca897686.png)
+<img width="1010" height="510" src=![image](https://user-images.githubusercontent.com/116351321/204894138-d695034a-3a96-48bc-920b-97f8ca897686.png)>
   </p>
 <p align="justify">
+  
 Original pictures and generations Early Renaissance, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719
 
 Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
