@@ -26,6 +26,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 **Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719**
 
 <p align="justify">Besides the complete change of complexion, we observed that the model reproduces the face shape and most facial characteristics of the people rather accurately. To observe whether significant changes occurred, we juxtaposed original pictures with the AI generated images and observed which areas were misrepresented. We noted that eye shapes tend to not be represented accurately, especially for some members of the East Asian group. For instance, the epicanthal folds on the portraits #3718, #3623, #3974 and #4251 are replaced by rounder, greener eyes on the generated painting.  
+  
 ![image](https://user-images.githubusercontent.com/116351321/204894325-7d90ec91-94b0-4430-9006-180302246805.png)  ![image](https://user-images.githubusercontent.com/116351321/204894346-a17fbd2f-1650-47d2-9c17-791ab245ffeb.png)
 
 **Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait)** 
@@ -37,6 +38,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 **Portrait #119 & #5933 and juxtaposition of the real picture (black frame) on the generated portrait)**
 
 <p align="justify">The issues abovementioned contribute to show that the portraits of white people tend to be more accurately represented than the other groups or at least that the respective generated pictures are closer to the original models. As the canonical aesthetic of Early Italian Renaissance is almost entirely based on the depiction of white people, this is unsurprising. 
+  
 ![image](https://user-images.githubusercontent.com/116351321/204894619-9afc1aa3-442c-4972-b783-b84063b3e6cb.png)
 ![image](https://user-images.githubusercontent.com/116351321/204894632-081f48a2-8584-4f3d-b124-938652e0e3c5.png)
   
@@ -45,7 +47,8 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 <p align="justify">The paintings used by AI Gahaku to train the model are most likely based on Antonello da Messina’s work, as one of his paintings is used illustrate the style of images that will be produced when selecting the style. After checking his work through the art database Wikiart (2022) , we did not find a single painting representing a non-white person. This could potentially explain the shortcomings of the models to generate pictures representing people from different ethnicities. 
 As mentioned in our methodological part, to see whether those issues would be mitigated by applying an art style that potentially used more inclusive dataset for training, we subsequently generated portraits using the Contemporary Realism style. Amongst the options offered by AI Gahaku, we hypothesized that it could potentially produce less biased results than Early Renaissance. 
 The results are, however, practically identical. This is notably visible when looking at the skin complexions of the second round of generations. The complexions are similar to the sample image provided for Contemporary Realism but disregards the skin colour of the pictures selected to produce a white complexion. 
-![image](https://user-images.githubusercontent.com/116351321/204894727-a9b21dde-ffb5-4c5f-9427-a9b92efbe544.png)
+
+  ![image](https://user-images.githubusercontent.com/116351321/204894727-a9b21dde-ffb5-4c5f-9427-a9b92efbe544.png)
 
 **Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765**
   
