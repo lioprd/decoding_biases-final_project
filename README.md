@@ -47,7 +47,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
 As mentioned in our methodological part, to see whether those issues would be mitigated by applying an art style that potentially used more inclusive dataset for training, we subsequently generated portraits using the Contemporary Realism style. Amongst the options offered by AI Gahaku, we hypothesized that it could potentially produce less biased results than Early Renaissance. 
 The results are, however, practically identical. This is notably visible when looking at the skin complexions of the second round of generations. The complexions are similar to the sample image provided for Contemporary Realism but disregards the skin colour of the pictures selected to produce a white complexion. 
 
-  ![image](assets/figure_8.png)
+ <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_5.png">
 
 **Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765**
   
