@@ -7,6 +7,7 @@ _How can AI Gahaku and Image-to-Image GAN art reproduce racial biases?_
 * [Findings](#findings)
 * [Discussion](#discussion)
 * [References](#references)
+* [Annex](#annex)
 
 ## Introduction
 <p align="justify">The introduction of GPT-3 and other neural network machine learning models reignited a tremendous interest regarding Artificial Intelligence and its potentials in various domains of application. Recently, AI generated art has experienced a wave of popularity, allowing users to create paintings, music, poetry, and eventually raising a lot of questions in the art community and in ethical debates. Our object of study, “AI Gahaku” is an AI artist who creates paintings in numerous styles based on photos submitted by user. Created by the Japanese full-stack developer Sato, the AI is most likely based on an unpaired image-to-image translation model using Generative Adversarial Networks (GANs). These models can produce compelling results even when paired training data is lacking as they only require unlabelled input and output data (Zhu et al., 2020). This technology, if highly impressive and entertaining, has shown some limitations, especially in face-transforming AI platforms, such as AI Gahaku. The most striking and serious limitation might be the racial biases displayed in AI Gahaku and similar apps. Indeed, when presented with pictures from non-white individuals, the AI model tends to be  remove “non-white” features in the generated images. Thus, following a qualitative methodological approach, our study aims to observe the extent to which face-transforming AIs have a bias towards minorities. Such phenomenon resonates greatly with broader social and racial issues, especially processes of underrepresentation and the invisibilization of minority groups. </p>
@@ -93,15 +94,7 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 
 Some text
 
-## Annex 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/1%20-%20Black%20-%20All%20generations.png" >
-Group 1 - Black - Generations in both styles and original pictures<br>
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/2%20-%20East%20Asian%20-%20All%20generations.png" >
-Group 2 - East Asian - Generations in both styles and original picture<br>
-
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/3%20-%20White%20-%20All%20generations.png">
-Group 3 - White - Generations in both styles and original picture<br>
 
 ## References
 
@@ -121,3 +114,15 @@ Hertzmann, Aaron.. "Can Computers Create Art?" Arts 7, no. 2: 18. February 2018 
 - Hardesty, Larry. “Study finds gender and skin-type bias in commercial artificial-intelligence systems”, MIT News. February 2018: https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212
 
 - Jun-Yan Zhu*, Taesung Park*, Phillip Isola, and Alexei A. Efros. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks", in IEEE International Conference on Computer Vision (ICCV), 2017.
+
+
+## Annex 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/1%20-%20Black%20-%20All%20generations.png" >
+<b>Group 1 - Black - Generations in both styles and original pictures</b> <br>
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/2%20-%20East%20Asian%20-%20All%20generations.png" >
+<b>Group 2 - East Asian - Generations in both styles and original picture</b> <br>
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/3%20-%20White%20-%20All%20generations.png">
+<b>Group 3 - White - Generations in both styles and original picture</b> <br>
+
