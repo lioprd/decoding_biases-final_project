@@ -87,3 +87,19 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 ## Annex 
 
 ## References
+- Srinivasan, Ramya. Uchino, Kanji. “Biases in Generative Art— A Causal Look from the Lens of Art History”, FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. March 2021.  Pages 41–51: https://doi.org/10.1145/3442188.3445869
+
+- Edmonds, Ernest A.. Boden, Margaret A.. “What is generative art”, Digital Creativity. March 2009: DOI: 10.1080/14626260902867915
+Hertzmann, Aaron.. "Can Computers Create Art?" Arts 7, no. 2: 18. February 2018 https://doi.org/10.3390/arts7020018
+
+- Goodfellow, Ian J. Pouget-Abadie, Jean. Mirza, Mehdi. Xu, Bing. Warde-Farley, David. Ozair, Sherjil. Courville, Aaron. Bengio, Yoshua. “Generative Adversarial Networks”, Arxiv. June 2014: https://doi.org/10.48550/arXiv.1406.2661
+
+- Karkkainen, K., & Joo, J. (2021). FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age for Bias Measurement and Mitigation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1548-1558).
+
+- Young, David. Tabula Rasa: Rethinking the Intelligence of Machine Minds. 2019 https://medium.com/@dkyy/tabula-rasa-b5f846e60859 
+
+- Rea, Naomi. “How ImageNet Roulette, an Art Project That Went Viral by Exposing Facial Recognition’s Biases, Is Changing People’s Minds About AI.”, Artnet News. September 2019: https://news.artnet.com/art-world/imagenet-roulette-trevor-paglen-kate-crawford-1658305
+
+- Hardesty, Larry. “Study finds gender and skin-type bias in commercial artificial-intelligence systems”, MIT News. February 2018: https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212
+
+- Jun-Yan Zhu*, Taesung Park*, Phillip Isola, and Alexei A. Efros. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks", in IEEE International Conference on Computer Vision (ICCV), 2017.
