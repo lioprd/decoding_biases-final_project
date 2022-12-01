@@ -1,10 +1,10 @@
 # Racial Biases in AI Gahaku and Image-to-image GAN Art 
-_How can AI Gahaku and Image-to-Image GAN art reproduce racial biases? 
+_How can AI Gahaku and Image-to-Image GAN art reproduce racial biases?_  
 
 * [Introduction](#introduction)
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
-* [Findings and Analysis](#findings and analysis)
+* [Findings and Analysis](#Findings & Analysis)
 * [Project scope](#scope)
 * [References](#references)
 
@@ -26,7 +26,7 @@ Our aim is to identify whether the AI underperforms when creating images based o
 We selected a total of 45 pictures (15 per groups) and generated portraits using the AI-Gahaku mobile application. Furthermore, to evaluate whether the biases where only limited to one specific type of painting, we di
 
 
-## Findings & Analysis
+## Findings and Analysis
 
   
 
