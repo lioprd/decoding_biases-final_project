@@ -85,6 +85,12 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 
 
 ## Annex 
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/1%20-%20Black%20-%20All%20generations.png" >
+1 - Black - All generations
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/2%20-%20East%20Asian%20-%20All%20generations.png" >
+2 - East Asian - All generations
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/3%20-%20White%20-%20All%20generations.png">
+3 - White - All generations
 
 ## References
 - Srinivasan, Ramya. Uchino, Kanji. “Biases in Generative Art— A Causal Look from the Lens of Art History”, FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency. March 2021.  Pages 41–51: https://doi.org/10.1145/3442188.3445869
