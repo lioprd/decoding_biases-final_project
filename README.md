@@ -40,7 +40,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_4.png">
   
-**Original pictures and generations, references of the images (link to right and top to bottom): #654, #623, #37, #3870**
+<b>Original pictures and generations, references of the images (link to right and top to bottom): #654, #623, #37, #3870</b>
 
 <p align="justify">The paintings used by AI Gahaku to train the model are most likely based on Antonello da Messina’s work, as one of his paintings is used illustrate the style of images that will be produced when selecting the style. After checking his work through the art database Wikiart (2022) , we did not find a single painting representing a non-white person. This could potentially explain the shortcomings of the models to generate pictures representing people from different ethnicities. 
 As mentioned in our methodological part, to see whether those issues would be mitigated by applying an art style that potentially used more inclusive dataset for training, we subsequently generated portraits using the Contemporary Realism style. Amongst the options offered by AI Gahaku, we hypothesized that it could potentially produce less biased results than Early Renaissance. 
@@ -48,7 +48,7 @@ The results are, however, practically identical. This is notably visible when lo
 
  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_5.png">
 
-**Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765**
+<b>Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765</b>
   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png">
 
