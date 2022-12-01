@@ -1,4 +1,4 @@
-# AI Gahaku & Racial Bias in Facial Recognition Algorithms
+
 
 ## Introduction
 
