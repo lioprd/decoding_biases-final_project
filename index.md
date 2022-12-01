@@ -1,3 +1,6 @@
+# Racial Biases in AI Gahaku and Image-to-image GAN Art 
+_How can AI Gahaku and Image-to-Image GAN art reproduce racial biases? 
+
 * [Introduction](#introduction)
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
@@ -31,7 +34,7 @@ We selected a total of 45 pictures (15 per groups) and generated portraits using
   
 <p align="justify"> We will first assess the presence of biases on the Early Renaissance generations and followingly examine whether Contemporary Realism generations were less biased. As predicted by our initial hypothesis, the generated paintings show a certain degree of biases. The first group examined; Black people shows the most obvious bias which is linked to the skin tones of the generations. As can be seen on the figure XXX, all generations feature rather similar skin colours, which were used in Early Italian Renaissance by painters such as Antonello de Messina to depict white people. The gap is less striking on the generations that were made based on the East Asian group as their skin tones are less contrasted with the generated tone. However, after looking more in-depth at our generations, we can see that different undertones tend to be erased and the three group are uniformly depicted with white skin tones.
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/Figure_1.png"> <br>
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/Figure_1.png">
   
 <b>Original pictures and generations *Early Renaissance*, references of the images (link to right and top to bottom): #412, #1019, #4433, #1719</b>
 
@@ -72,18 +75,14 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/img_translation.jpg">
 <b>Paired and unpaired training data, <i> retrieved from Zhu & Al. 2017, p. 2</i> </b>
   
-  
-AI Gahaku’s model was highly likely also trained with unpaired data, using paintings as the input X and portraits as output Y. By looking at our findings, we can infer that not only the portraits used to train the model excluded non-white people but it is likely that output images were also biased. 
+<p>AI Gahaku’s model was highly likely also trained with unpaired data, using paintings as the input X and portraits as output Y. By looking at our findings, we can infer that not only the portraits used to train the model excluded non-white people but it is likely that output images were also biased. </p>
 
   </p>
 
 
-
-
 ## Limitations 
 
-{\lbrace{x_{i}}\rbrace}_{i=1}^N (x_i \in X)
-{\lbrace{y_{j}}\rbrace}_{j=1}^M (y_j \in Y)
+
 
 ## Annex 
 
