@@ -5,7 +5,7 @@ _How can AI Gahaku and Image-to-Image GAN art reproduce racial biases?_
 * [Literature review and approach](#literature-review-and-approach)
 * [Methodology](#methodology)
 * [Findings](#findings)
-* [Project scope](#scope)
+* [Discussion](#discussion)
 * [References](#references)
 
 ## Introduction
@@ -82,11 +82,13 @@ AI Gahaku creator’s does not provide any explanation pertaining to the type of
 In the case of AI Gahaku, such pairs do not exist as the paintings that are replicated have no direct picture equivalents. Zhu & al. (2017) explain that another method allows to capture the characteristics of an input dataset and translate it into an output dataset without having paired, labelled images. They use unpaired training data: consisting of a source set<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation.png"> and a target set <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation2.png">with no information provided as to which x_i matches which y_j (Zhu & al. 2017). Using unpaired data of two datasets with similar characteristics is sufficient to train models to convincingly transfer the style of the base dataset to the model.
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/img_translation.jpg">
-<b>Paired and unpaired training data, <i> retrieved from Zhu & Al. 2017, p. 2</i> </b>
+<b>Paired and unpaired training data, retrieved from Zhu & Al. 2017, p. 2</b>
   
 <p>AI Gahaku’s model was highly likely also trained with unpaired data, using paintings as the input X and portraits as output Y. By looking at our findings, we can infer that not only the portraits used to train the model excluded non-white people but it is likely that output images were also biased. </p>
 
+## Discussion 
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/assets/image.png">
 ## Limitations
 
 
