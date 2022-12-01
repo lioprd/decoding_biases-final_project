@@ -52,12 +52,27 @@ The results are, however, practically identical. This is notably visible when lo
   
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png">
 
+The previous findings on eye shapes remain similar with the images generated with the Contemporary Realism. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
+  
+AI Gahaku creator’s does not provide any explanation pertaining to the type of model used to create the paintings. The most likely way to create such generations would be through unpaired image-to-image translation using generative adversarial networks (GAN). One of the most widespread technologies to generate art are paired adversarial network. GANs are based on the interaction between generative neural network and a discriminator one. The generative network creates images attempting to recreate the demanded output convincingly and those are passed through the discriminator network which attempt to identify whether they are accurate or not. Both networks learn and improve together and use pairs of images (inputs and outputs) to learn the expected results. 
+  
+In the case of AI Gahaku, such pairs do not exist as the paintings that are replicated have no direct picture equivalents. Zhu & al. (2017) explain that another method allows to capture the characteristics of an input dataset and translate it into an output dataset without having paired, labelled images. They use unpaired training data: consisting of a source set<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation.png"> and a target set <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation2.png">, with no information provided as to which xi matches which yj (Zhu & al. 2017). Using unpaired data of two datasets with similar characteristics is sufficient to train models to convincingly transfer the style of the base dataset to the model.
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/img_translation.jpg" width="1365" height="845">
+<b>Paired and unpaired training data, <i> retrieved from Zhu & Al. 2017, p. 2</i> </b>
+  
+  
+AI Gahaku’s model was highly likely also trained with unpaired data, using paintings as the input X and portraits as output Y. By looking at our findings, we can infer that not only the portraits used to train the model excluded non-white people but it is likely that output images were also biased. 
+
   </p>
 
 
 
 
 ## Limitations 
+
+{\lbrace{x_{i}}\rbrace}_{i=1}^N (x_i \in X)
+{\lbrace{y_{j}}\rbrace}_{j=1}^M (y_j \in Y)
 
 ## Annex 
 
