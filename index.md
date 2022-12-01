@@ -80,8 +80,7 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
   </p>
 
 
-## Limitations 
-
+## Limitations
 
 
 ## Annex 
