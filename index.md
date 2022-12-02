@@ -75,9 +75,9 @@ The results are, however, practically identical. This is notably visible when lo
 
 <b>Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765</b>
   
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait – <i> Contemporary Realism </i> </b><br>
-
-The previous findings on eye shapes remain similar with the images generated with the Contemporary Realism. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait – <i> Contemporary Realism </i> </b>
+<br>
+The previous findings on eye shapes remain similar when observing images generated with the Contemporary Realism style. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
   
 AI Gahaku creator’s does not provide any explanation pertaining to the type of model used to create the paintings. The most likely way to create such generations would be through unpaired image-to-image translation using generative adversarial networks (GAN). One of the most widespread technologies to generate art are paired adversarial network. GANs are based on the interaction between generative neural network and a discriminator one. The generative network creates images attempting to recreate the demanded output convincingly and those are passed through the discriminator network which attempt to identify whether they are accurate or not. Both networks learn and improve together and use pairs of images (inputs and outputs) to learn the expected results. 
   
@@ -103,7 +103,7 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/assets/image.png">
 <b>Antonello di Messine, painting, retrieved from Wikiart's database </b>
-
+<br>
 <p align="justify">His work is quite representative of Early Italian Renaissance (1400–1495) paintings. During this period, the visual arts underwent a major transition from two to three dimensions. The Early Renaissance also marks a shift with the representation of religion in art. Though people remained devoted to Christianity and the visual arts continued to represent biblical stories, painters and sculptors began to place a greater importance on man’s greatness by representing the human body in anatomical detail. In painting, the Early Renaissance style is characterized by the focus on the realism and naturalism of figures, depth and dimension of spaces using foreshortening and one-point perspective, dramatic emphasis through chiaroscuro (shading to create depth between light and dark parts). Significant artists include Filippo Brunelleschi (1377 – 1446), Sandro Botticelli (1445 – 1510), Masaccio (1401 – 1428) and Piero della Francesca (1420 – 1492). </p> 
 
 <b> Contemporary Realism </b>
@@ -112,7 +112,7 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 
 <div align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/assets/contemporary_realism.jpeg" width="618" height="929"></div>
 <b><div align="center">Contemporary Realist Paintings; Blue Umbrella 2 , Alex Katz,1972; Portrait of John Ashbery, Jane Freilicher, 1968;Nidah, Nanette Fluhr, 2014; The Mirror, Fairfield Porter, 1966;Family Group with Butterfly, Leland Bell, 1986–1990; The Group, Leland Bell, 1976; sans titre (9578), Alex Katz; Portrait of Don Cord, Fairfield Porter, 1967; Portrait of Robert Dash, Fairfield Porter,1960; Girl and Geranium, Fairfield Porter, 1963</div></b>
-
+<br>
 <b>2. Observations </b>
 
 
