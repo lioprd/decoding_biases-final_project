@@ -69,9 +69,9 @@ The results are, however, practically identical. This is notably visible when lo
 
  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_5.png">
 
-<b>Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765</b>
+<b>Original pictures and generations <i> Contemporary Realism </i>, portraits (left to right and top to bottom): #120, #1370, #4605, #6765</b>
   
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait – <i> Contemporary Realism </i> </b>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 <i> Contemporary Realism </i> and juxtaposition of the real picture (black frame) on the generated portrait </b>
 <br>
 The previous findings on eye shapes remain similar when observing images generated with the Contemporary Realism style. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
   
