@@ -1,14 +1,14 @@
 # Racial Biases in AI Gahaku and Image-to-image GAN Art 
 _How can AI Gahaku and Image-to-Image GAN art reproduce racial biases?_  
 
-* [Introduction](#introduction)
-* [Literature review and approach](#literature-review-and-approach)
-* [Methodology](#methodology)
-* [Findings](#findings)
-* [Discussion](#discussion)
-* [Conclusion and Limitations](#conclusion-and-limitations)
-* [References](#references)
-* [Appendices](#appendices)
+  * [Introduction](#introduction)
+  * [Literature review and approach](#literature-review-and-approach)
+  * [Methodology](#methodology)
+  * [Findings](#findings)
+  * [Discussion](#discussion)
+  * [Conclusion and Limitations](#conclusion-and-limitations)
+  * [References](#references)
+  * [Appendices](#appendices)
 
 ## Introduction
 <p align="justify">The introduction of GPT-3 and other neural network machine learning models reignited a tremendous interest regarding Artificial Intelligence and its potentials in various domains of application. Recently, AI generated art has experienced a wave of popularity, allowing users to create paintings, music, poetry, and eventually raising a lot of questions in the art community and in ethical debates. Our object of study, “AI Gahaku” is an AI artist who creates paintings in numerous styles based on photos submitted by user. Created by the Japanese full-stack developer Sato, the AI is most likely based on an unpaired image-to-image translation model using Generative Adversarial Networks (GANs). These models can produce compelling results even when paired training data is lacking as they only require unlabelled input and output data (Zhu et al., 2020). This technology, if highly impressive and entertaining, has shown some limitations, especially in face-transforming AI platforms, such as AI Gahaku. The most striking and serious limitation might be the racial biases displayed in AI Gahaku and similar apps. Indeed, when presented with pictures from non-white individuals, the AI model tends to be  remove “non-white” features in the generated images. Thus, following a qualitative methodological approach, our study aims to observe the extent to which face-transforming AIs have a bias towards minorities. Such phenomenon resonates greatly with broader social and racial issues, especially processes of underrepresentation and the invisibilization of minority groups. </p>
