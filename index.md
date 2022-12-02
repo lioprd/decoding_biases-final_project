@@ -75,7 +75,7 @@ The results are, however, practically identical. This is notably visible when lo
 <br>
 The previous findings on eye shapes remain similar when observing images generated with the Contemporary Realism style. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
   
-AI Gahaku creator’s does not provide any explanation pertaining to the type of model used to create the paintings. The most likely way to create such generations would be through unpaired image-to-image translation using generative adversarial networks (GAN). One of the most widespread technologies to generate art are paired adversarial network. GANs are based on the interaction between generative neural network and a discriminator one. The generative network creates images attempting to recreate the demanded output convincingly and those are passed through the discriminator network which attempt to identify whether they are accurate or not. Both networks learn and improve together and use pairs of images (inputs and outputs) to learn the expected results. 
+AI Gahaku creator’s does not provide any explanation pertaining to the type of model used to create the paintings. The most likely way to create such generations would be through unpaired image-to-image translation using generative adversarial networks (GAN). One of the most widespread technologies to generate art are paired adversarial network. GANs are based on the interaction between a generative neural network and a discriminator one. The generative network creates images attempting to recreate the demanded output convincingly and those are passed through the discriminator network which attempt to identify whether they are accurate or not. Both networks learn and improve together and use pairs of images (inputs and outputs) to learn the expected results. 
   
 In the case of AI Gahaku, such pairs do not exist as the paintings that are replicated have no direct picture equivalents. Zhu & al. (2017) explain that another method allows to capture the characteristics of an input dataset and translate it into an output dataset without having paired, labelled images. They use unpaired training data: consisting of a source set<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation.png"> and a target set <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/equation2.png">with no information provided as to which x_i matches which y_j (Zhu & al. 2017). Using unpaired data of two datasets with similar characteristics is sufficient to train models to convincingly transfer the style of the base dataset to the model.
 
@@ -168,7 +168,41 @@ Sung, Morgan. “The AI Renaissance Portrait Generator Isn't Great at Painting P
 
 - Young, David. Tabula Rasa: Rethinking the Intelligence of Machine Minds. 2019 https://medium.com/@dkyy/tabula-rasa-b5f846e6085
 <br>
+<h2>References</h2>
+<br>
 
+<ul>
+  <li>
+    Antonello de Messine - 41 œuvres d'art - peinture. www.wikiart.org. (n.d.). Retrieved November 30, 2022, from https://www.wikiart.org/fr/antonello-de-messine
+  </li>
+  <li>
+    Artincontext. (2022, November 16). Early Renaissance - exploring the early italian renaissance art period. artincontext.org. Retrieved November 20, 2022, from https://artincontext.org/early-renaissance/
+  </li>
+  <li>
+    Contemporary Realism Movement Overview. The Art Story. (2022). Retrieved November 20, 2022, from https://www.theartstory.org/movement/contemporary-realism/
+  </li>
+  <li>
+    Early Renaissance art and architecture. The Art Story. (2022). Retrieved November 30, 2022, from https://www.theartstory.org/movement/early-renaissance/
+  </li>
+  <li>
+    Edmonds, Ernest A.. Boden, Margaret A.. “What is generative art”, Digital Creativity. March 2009: DOI: 10.1080/14626260902867915 Hertzmann, Aaron.. "Can Computers Create Art?" Arts 7, no. 2: 18. February 2018 https://doi.org/10.3390/arts7020018
+  </li>
+  <li>
+    Goodfellow, Ian J. Pouget-Abadie, Jean. Mirza, Mehdi. Xu, Bing. Warde-Farley, David. Ozair, Sherjil. Courville, Aaron. Bengio, Yoshua. “Generative Adversarial Networks”, Arxiv. June 2014: https://doi.org/10.48550/arXiv.1406.2661
+  </li>
+  <li>
+    Hardesty, Larry. “Study finds gender and skin-type bias in commercial artificial-intelligence systems”, MIT News. February 2018: https://news.mit.edu/2018/study-finds-gender-skin-type-bias-artificial-intelligence-systems-0212
+  </li>
+  <li>
+    Jun-Yan Zhu*, Taesung Park*, Phillip Isola, and Alexei A. Efros. "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks", in IEEE International Conference on Computer Vision (ICCV), 2017.
+  </li>
+  <li>
+    Karkkainen, K., & Joo, J. (2021). FairFace: Face Attribute Dataset for Balanced Race, Gender, and Age for Bias Measurement and Mitigation. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1548-1558).
+  </li>
+  <li>
+    Ongweso Jr, Edward. “Racial Bias in AI Isn’t Getting Better and Neither Are Researchers’ Excuses.” Vice, 29 July 2019, https://www.vice.com/en/article/8xzwgx/racial-bias-in-ai-isnt
+   
+   
 ## Appendices 
 <br>
 
