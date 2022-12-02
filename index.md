@@ -75,7 +75,7 @@ The results are, however, practically identical. This is notably visible when lo
 
 <b>Original pictures and generations *Contemporary Realism*, references of the images (link to right and top to bottom): #120, #1370, #4605, #6765</b>
   
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait – <i> Contemporary Realism </i> </b>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decodingbiases/main/assets/figure_6.png"><b> Portrait #3718 & #3623 and juxtaposition of the real picture (black frame) on the generated portrait – <i> Contemporary Realism </i> </b><br>
 
 The previous findings on eye shapes remain similar with the images generated with the Contemporary Realism. Frome these results, we can infer that the training data used for Contemporary Realism also lacked inclusivity. However, to better understand the causes of the biases produced by AI Gahaku, it is necessary to describe more precisely how the generations were created. 
   
@@ -108,12 +108,13 @@ In the case of AI Gahaku, such pairs do not exist as the paintings that are repl
 
 <b> Contemporary Realism </b>
 
-We were unable to find the exact artist which inspired the filter by looking through AI Gahaku’s platform or through reverse searching the image associated to the filter. Nevertheless, the main tenets of the style are the following. The Tate describes “modern realism” as paintings or sculptures depicting things in a realistic manner, which were created since the emergence of abstract art.   Emerging out of New York in the late 1960s and early 70s, Contemporary Realism is intended as a contestation and a response to Abstract Expressionism. The movement shifts away from abstract representations of life in order to depict reality, but in a different way to 19th century realists. For instance, these new artists were known for representing modern urban and rural life, particularly around New York, but without the sentimentality of previous realists. Instead, they often used peoples’ gazes or still lifes to inform on their own lives. Significant artists include Jane Freilicher (1924-2014), Fairfield Porter (1907 - 1975), Alex Katz (1927 - ) and Leland Bell (1922 - 1991),  Philip Pearlstein (1924 - ), Jack Beal (1931- 2013) and Neil Welliver (1929-2005).
+<p align="justify">We were unable to find the exact artist which inspired the filter by looking through AI Gahaku’s platform or through reverse searching the image associated to the filter. Nevertheless, the main tenets of the style are the following. The Tate describes “modern realism” as paintings or sculptures depicting things in a realistic manner, which were created since the emergence of abstract art.   Emerging out of New York in the late 1960s and early 70s, Contemporary Realism is intended as a contestation and a response to Abstract Expressionism. The movement shifts away from abstract representations of life in order to depict reality, but in a different way to 19th century realists. For instance, these new artists were known for representing modern urban and rural life, particularly around New York, but without the sentimentality of previous realists. Instead, they often used peoples’ gazes or still lifes to inform on their own lives. Significant artists include Jane Freilicher (1924-2014), Fairfield Porter (1907 - 1975), Alex Katz (1927 - ) and Leland Bell (1922 - 1991),  Philip Pearlstein (1924 - ), Jack Beal (1931- 2013) and Neil Welliver (1929-2005).</p>
 
 <div align="center"> <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/lioprd/decoding_biases-final_project/main/assets/contemporary_realism.jpeg" width="618" height="929"></div>
 <b><div align="center">Contemporary Realist Paintings; Blue Umbrella 2 , Alex Katz,1972; Portrait of John Ashbery, Jane Freilicher, 1968;Nidah, Nanette Fluhr, 2014; The Mirror, Fairfield Porter, 1966;Family Group with Butterfly, Leland Bell, 1986–1990; The Group, Leland Bell, 1976; sans titre (9578), Alex Katz; Portrait of Don Cord, Fairfield Porter, 1967; Portrait of Robert Dash, Fairfield Porter,1960; Girl and Geranium, Fairfield Porter, 1963</b></div>
 
-<b>2. Observations </b><br>
+<b>2. Observations </b>
+
 
 <p align="justify">Upon researching the paintings associated with the Early Renaissance, it becomes quite evident that there is an underrepresentation of the faces of non-white people. There also seems to be more men represented than women. These observations align with the historical context of 15th century Florence. Our findings suggest AI Gahaku did not consider the lack of diversity in the dataset or did not properly weigh the importance of paintings with non-white faces against paintings representing white faces when building the training dataset. Furthermore, it is also likely that the input datasets (real portraits) used to train the models also lacked representativity.</p>
 
@@ -135,7 +136,8 @@ We were unable to find the exact artist which inspired the filter by looking thr
 
 
 
-## References
+## Appendices
+
 
 - Antonello de Messine - 41 œuvres d'art - peinture. www.wikiart.org. (n.d.). Retrieved November 30, 2022, from https://www.wikiart.org/fr/antonello-de-messine 
 
